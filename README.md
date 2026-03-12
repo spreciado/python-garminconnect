@@ -106,6 +106,10 @@ python3 ./demo.py
 ```
 
 
+## 🤖 Model Context Protocol (MCP)
+
+Want to expose Garmin data as MCP tools for AI clients (Claude Desktop, Cursor, etc.)? See: **[`docs/mcp_server.md`](docs/mcp_server.md)** for a step-by-step guide and sample server.
+
 ## 🛠️ Development
 
 Set up a development environment for contributing:
